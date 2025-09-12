@@ -3,7 +3,7 @@
     {
       "key": "MZ",
       "name": "MoZhua",
-      "type": 0,
+      "type": 2,
       "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
