@@ -33,8 +33,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 3,
+      "url": "https://mzm3u8jx.com/aliplayer.html?url="
     }
   ],
   "flags": [
