@@ -7,14 +7,7 @@
       "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "大陆电视",
-        "大陆综艺",
-        "连续剧",
-        "电影",
-        "短剧"
-      ]
+      "filterable": 1
     }
   ],
   "lives": [
@@ -32,8 +25,8 @@
   ],
   "parses": [
     {
-      "name": "解析1",
-      "type": 3,
+      "name": "mozhua",
+      "type": 0,
       "url": "https://mzm3u8jx.com/aliplayer.html?url="
     }
   ],
