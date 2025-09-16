@@ -1,36 +1,21 @@
 {
   "sites": [
     {
-      "key": "MZ",
-      "name": "MoZhua",
+      "key": "魔爪",
+      "name": "魔爪",
       "type": 0,
-      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "香港剧",
-        "国产剧",
-        "大陆综艺"
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "短剧",
+        "纪录片"
       ]
-    },
-    {
-      "key": "lzzy",
-      "name": "量子",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ff",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
   "lives": [
@@ -48,7 +33,7 @@
   ],
   "parses": [
     {
-      "name": "mozhua",
+      "name": "魔爪解析",
       "type": 0,
       "url": "https://mzm3u8jx.com/aliplayer.html?url="
     }
